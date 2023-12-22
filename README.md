@@ -10,7 +10,7 @@
 - ⟴ Custom Texts (About, Help, Stats,More..)
 - ⟴ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
 
-
+🄸 🄻🄾🅅🄴 🅈🄾🅄 🄳🄴🄰🅁 🄰🄸🅂🄷🅄 & 🄷🄰🄿🄿🅈 🄱🄳🄰🅈 🄳🄴🄰🅁
 
 
 <p align="center">
