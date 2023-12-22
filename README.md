@@ -19,7 +19,7 @@
 <h1 align="center">
   <b>𝔸𝕀𝕊ℍ𝕎𝔸ℝ𝕐𝔸</b>
 </h1>
-
+written by bot
 
 [![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/AM-ROBOTS/AdvAnurag/stargazers)
 [![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/AM-ROBOTS/AdvAnurag/fork)
