@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AM-ROBOTS/AdvAnurag/blob/main/assets/logo.jpg" alt="Anurag Logo">
+  <img src="https://github.com/AM-ROBOTS/AdvAnurag/blob/main/assets/logo.jpg" alt="I LOVE YOU ">
 </p>
 <h1 align="center">
   <b>𝔸𝕀𝕊ℍ𝕎𝔸ℝ𝕐𝔸</b>
