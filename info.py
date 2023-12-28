@@ -18,8 +18,8 @@ BOT_TOKEN = environ['BOT_TOKEN']
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
-USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/d7a18f5a1afa56dbf53c8.jpg,https://telegra.ph/file/f9f788cb55a74c47988f8.jpg,https://telegra.ph/file/852d33f33dc1c9cce94da.jpg')).split()
+USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
+PICS = (environ.get('PICS', 'https://graph.org/file/88736b9ca89d29cdacc94.jpg')).split()
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -38,7 +38,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'armoviechat')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'aishwaryafilms')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False)
